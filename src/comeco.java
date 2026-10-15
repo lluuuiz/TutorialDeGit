@@ -11,6 +11,10 @@ public class comeco {
         int soma = numero1 + numero2;
 
         System.out.println("O resultado da soma é: " + soma);
-    }
+
+        int sub = numero1 - numero2;
+            System.out.println("O resultado da subtração é: " + sub);
+
+        }
 
 }
